@@ -1,0 +1,17 @@
+:root {
+    --primary-color: #29cef7;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    color: #faebd7;
+    overflow: hidden;
+    text-align: center;
+    background-color: #1e1f26;
+}
